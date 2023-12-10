@@ -69,10 +69,10 @@
     // 检查引用来源是否与允许的来源匹配
     if (referrer.startsWith(allowedReferrer)) {
       // 来源匹配，允许访问
-      console.log("来源验证通过，允许访问。");
+      console.log("身份验证通过，允许访问。");
     } else {
       // 来源不匹配，重定向或显示消息
-      alert("您没有权限访问此页面，请从指定的页面跳转过来。");
+      alert("身份验证已失效，请从指定的页面重新验证。");
       window.location.href = allowedReferrer; // 重定向到允许的来源页面
     }
   });
