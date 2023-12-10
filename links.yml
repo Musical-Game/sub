@@ -34,7 +34,7 @@ friendship_links_url: https://yinyoushe.github.io/simulator/
 ################
 navigation_urls:
   - title: 微信公众号
-    url: page1/
+    url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5OTk4MjcwMQ==&scene=124#wechat_redirect/
   - title: 人工客服
     url: https://www.yinyoushe.eu.org/?c=msg&ts=contactus/
 
