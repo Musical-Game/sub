@@ -56,6 +56,27 @@
       .logo h1{margin-top: 0px; margin-bottom: 0px}
     }
     </style>
+
+    <script>
+  // 当文档加载完成时执行
+  document.addEventListener('DOMContentLoaded', function() {
+    // 指定允许访问的来源URL
+    var allowedReferrer = "https://yinyoushe.github.io/verify/";
+
+    // 获取当前文档的引用来源
+    var referrer = document.referrer;
+
+    // 检查引用来源是否与允许的来源匹配
+    if (referrer.startsWith(allowedReferrer)) {
+      // 来源匹配，允许访问
+      console.log("身份验证通过，允许访问。");
+    } else {
+      // 来源不匹配，重定向或显示消息
+      alert("身份验证已失效，请从指定页面重新验证。");
+      window.location.href = allowedReferrer; // 重定向到允许的来源页面
+    }
+  });
+</script>
 </head>
 <body class="page-body">
     <!-- skin-white -->
