@@ -57,6 +57,33 @@
     }
     </style>
 </head>
+    <script>
+  // 当文档加载完成时执行
+  document.addEventListener('DOMContentLoaded', function() {
+    // 指定允许访问的来源URL列表
+    var allowedReferrers = [
+      "https://yinyoushe.github.io/verify/",
+      "https://yinyoushe.eu.org/testify/"
+    ];
+
+    // 获取当前文档的引用来源
+    var referrer = document.referrer;
+
+    // 检查引用来源是否在允许的来源列表中
+    var isAllowed = allowedReferrers.some(function(allowedReferrer) {
+      return referrer.startsWith(allowedReferrer);
+    });
+
+    if (isAllowed) {
+      // 来源匹配，允许访问
+      console.log("身份验证通过，允许访问。");
+    } else {
+      // 来源不匹配，重定向或显示消息
+      alert("身份验证已失效，请从指定的页面重新验证。");
+      window.location.href = allowedReferrers[0]; // 重定向到允许的来源列表中的第一个页面
+    }
+  });
+</script>
 <body class="page-body">
     <!-- skin-white -->
     <div class="page-container">
