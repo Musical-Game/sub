@@ -5,7 +5,7 @@
 # 网站标题
 title: 音游社一谱面下载
 # 网站 LOGO（可选）
-logo: https://avatars.githubusercontent.com/u/136780597?v=4
+logo: 
 # 网址导航页面关键字（可选）
 keywords: 音游社，谱面，下载
 # 网址导航页面描述（可选）
@@ -187,7 +187,7 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Atropos.watch.zip
         description: 
         tags: 
-        title: Be.Gone.Thought!
+      - title: Be.Gone.Thought!
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Be.Gone.Thought!.zip
         description: 
