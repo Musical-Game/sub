@@ -36,13 +36,13 @@ navigation_urls:
   - title: 微信公众号
     url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5OTk4MjcwMQ==&scene=124#wechat_redirect/
   - title: 人工客服
-    url: https://www.yinyoushe.eu.org/?c=msg&ts=contactus#
+    url: https://www.yinyoushe.eu.org/?c=msg&ts=contactus
 
 ################
 ## 网址导航数据
 ################
-categories:谱面下载
-  - category: 4k专区
+categories:
+  - category: 新谱发布
     icon: linecons-star
     links:
       - title: King-Russian.zip
@@ -66,7 +66,7 @@ categories:谱面下载
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
 
-  - category: 网盘专区
+  - category: 4k专区
     hide_menu: true
     icon: linecons-star
     links:
@@ -91,7 +91,7 @@ categories:谱面下载
         description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 敬请期待
+  - category: 网盘曲库
     icon: linecons-doc
     links:
       - title: 等你来加➕
