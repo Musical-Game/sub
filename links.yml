@@ -97,7 +97,10 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/1f1e33.zip
         description: 
         tags: 
-      
+
+   - category: 更多谱面
+    icon: linecons-doc
+    links:  
       - title: A.Little.Fast.Music
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/A.Little.Fast.Music.zip
