@@ -72,24 +72,118 @@ categories:
   - category: 网盘曲库
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+      - title: Ark
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
+        description: 
+        tags: 
+      - title: 16_9
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/16_9.zip
+        description: 
+        tags: 
+      - title: 198museum
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/198museum.zip
+        description: 
+        tags: 
+      - title: 1f1e33
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/1f1e33.zip
+        description: 
+        tags: 
+      - title: A.Little.Fast.Music
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/A.Little.Fast.Music.zip
+        description: 
+        tags: 
+      - title: Abiogenesis
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Abiogenesis.zip
+        description: 
+        tags: 
+      - title: Absolute.Future
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Absolute.Future.zip
+        description: 
+        tags: 
+      - title: Acht.Streiks
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Acht.Streiks.zip
+        description: 
+        tags: 
+      - title: Aegleseeker
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Aegleseeker.zip
+        description: 
+        tags: 
+      - title: aegleseekerAT
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/aegleseekerAT.zip
+        description: 
+        tags: 
+      - title: After.Dawn.IN15
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/After.Dawn.IN15.zip
+        description: 
+        tags: 
+      - title: Aleph-0.SP
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Aleph-0.SP.zip
+        description: 
+        tags: 
+      - title: Altale
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Altale.zip
+        description: 
+        tags: 
+      - title: anke
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/anke.zip
+        description: 
+        tags: 
+      - title: anomaly
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/anomaly.zip
+        description: 
+        tags: 
+      - title: antagonism
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/antagonism.zip
+        description: 
+        tags: 
+      - title: Apocalypse
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Apocalypse.zip
+        description: 
+        tags: 
+      - title: apollo
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/apollo.zip
+        description: 
+        tags: 
+      - title: arcahv
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/arcahv.zip
+        description: 
+        tags: 
+      - title: Ark.AT16
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.AT16.zip
+        description: 
+        tags: 
+      - title: ASGORE
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/ASGORE.zip
+        description: 
+        tags: 
+      - title: Astronomia
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Astronomia.zip
+        description: 
+        tags: 
+      - title: Atropos.watch
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Atropos.watch.zip
+        description: 
+        tags: 
