@@ -43,17 +43,37 @@ categories:
   - category: 新谱发布
     icon: linecons-star
     links:
-      - title: King-Russian
+      - title: Alice.In.VOODOOLAND
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Russian.zip
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
         description: 
         tags: 
-      - title: King-Japanese
+      - title: Level.Up
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Japanese.zip
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
+        description: 
+        tags:
+      - title: Harika
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Harika.zip
         description: 
         tags: 
-
+      - title: shuhanwushuang
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/shuhanwushuang.zip
+        description: 
+        tags: 
+      - title: xiaguang
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/xiaguang.zip
+        description: 
+        tags: 
+      - title: Under.the.sea
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Under.the.sea.zip
+        description: 
+        tags:
+        
   - category: 4k专区
     hide_menu: true
     icon: linecons-star
