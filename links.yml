@@ -45,7 +45,7 @@ categories:
   - category: 新谱发布
     icon: linecons-star
     links:
-      - title: King-Russian.zip
+      - title: King-Russian
         logo: https://www.yinyoushe.eu.org/upfiles/201907/23/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Russian.zip
         description: 
@@ -70,7 +70,7 @@ categories:
     hide_menu: true
     icon: linecons-star
     links:
-      - title: King-Russian.zip
+      - title: King-Russian
         logo: https://www.yinyoushe.eu.org/upfiles/201907/23/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Russian.zip
         description: 
