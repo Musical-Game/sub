@@ -70,10 +70,10 @@ categories:
     hide_menu: true
     icon: linecons-star
     links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
+      - title: King-Russian.zip
+        logo: https://www.yinyoushe.eu.org/upfiles/201907/23/a23a2a26cf204701e.jpg
+        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Russian.zip
+        description: 
         tags: 程序员,社区
       - title: BestXTools 社区
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
