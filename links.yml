@@ -28,7 +28,6 @@ link_submission_url: https://yyfs.eu.org/
 friendship_links_url: https://yinyoushe.github.io/simulator/
 # Google Analytics Code（可选）
 # ga_tracking_code_id: G-ABCDEFG
-
 ################
 ## 导航栏
 ################
@@ -37,7 +36,6 @@ navigation_urls:
     url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5OTk4MjcwMQ==&scene=124#wechat_redirect/
   - title: 人工客服
     url: https://www.yinyoushe.eu.org/?c=msg&ts=contactus
-
 ################
 ## 网址导航数据
 ################
@@ -50,6 +48,21 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Russian.zip
         description: 
         tags: 
+      - title: BestXTools 社区
+        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+        url: https://discuss-cn.bestxtools.com/
+        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+        tags: 在线工具,周刊,社区
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+        tags: 程序员,生活,创意
+      - title: Pipecraft 社区
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss-cn.pipecraft.net/
+        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+        tags: RSS,Atom,聚合新闻,内容订阅
       - title: King-Japanese
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Japanese.zip
@@ -70,6 +83,38 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Japanese.zip
         description: 
         tags: 
+      - title: Pipecraft 社区
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss-cn.pipecraft.net/
+        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+        tags: RSS,Atom,聚合新闻,内容订阅
+      - title: 纵横网址导航
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
+        url: https://zh.pipecraft.net/
+        description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
+        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
+
+
+  - category: test
+    icon: linecons-doc
+    links:
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+        tags: 程序员,生活,创意
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
     
   - category: 网盘曲库
     icon: linecons-doc
@@ -98,9 +143,6 @@ categories:
         description: 
         tags: 
 
-   - category: 更多谱面
-    icon: linecons-doc
-    links:  
       - title: A.Little.Fast.Music
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/A.Little.Fast.Music.zip
