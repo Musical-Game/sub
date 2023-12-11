@@ -41,7 +41,7 @@ navigation_urls:
 ################
 ## 网址导航数据
 ################
-categories:
+categories:谱面下载
   - category: 4k专区
     icon: linecons-star
     links:
