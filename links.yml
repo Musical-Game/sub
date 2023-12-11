@@ -13,9 +13,9 @@ description: 一个由音游社支持的谱面下载站点。
 # 网址导航页面 URL（可选）
 url: https://www.yinyoushe.eu.org/
 # Favicon（可选）
-shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
+shortcut_icon: https://www.yinyoushe.eu.org/upfiles/201907/23/a5a758d67aa76b151.jpg
 # 社交分享图片（可选）
-og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+og_img: https://www.yinyoushe.eu.org/upfiles/201907/23/a5a758d67aa76b151.jpg
 # 主页 URL
 home_url: https://www.yinyoushe.eu.org/
 # GitHub 链接（可选）
@@ -46,7 +46,7 @@ categories:
     icon: linecons-star
     links:
       - title: King-Russian.zip
-        logo: https://www.yinyoushe.eu.org/upfiles/202303/24/130_big.jpg
+        logo: https://www.yinyoushe.eu.org/upfiles/201907/23/a5a758d67aa76b151.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/King-Russian.zip
         description: 
         tags: 
@@ -66,7 +66,7 @@ categories:
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
 
-  - category: 推荐
+  - category: 网盘专区
     hide_menu: true
     icon: linecons-star
     links:
@@ -91,7 +91,7 @@ categories:
         description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 程序员博客
+  - category: 敬请期待
     icon: linecons-doc
     links:
       - title: 等你来加➕
@@ -111,44 +111,3 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
-
-  - category: 设计师博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 个人博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        
