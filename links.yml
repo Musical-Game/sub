@@ -146,7 +146,7 @@ categories:
         tags:
 
   - category: MS
-    hide_menu: ture
+    hide_menu: true
     icon: linecons-doc
     links:
       - title: 2019_June_MS.pdf
