@@ -66,9 +66,9 @@ categories:
   - category: 力学
     icon: linecons-doc
     links:
-      - title: Alice.In.VOODOOLAND
+      - title: M1.5_Dynamics_2.ppt
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109909634/1/745071373/M1.5_Dynamics_2.ppt
         description: 
         tags: 
       - title: 
