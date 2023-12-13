@@ -119,7 +119,7 @@ categories:
         description: 
         tags: 
 
-  - category: 数学
+  - category: 文学
     icon: linecons-doc
     links:
       - title: Alice.In.VOODOOLAND
@@ -133,7 +133,7 @@ categories:
         description: 
         tags:
 
-  - category: 化学
+  - category: 数学
     icon: linecons-doc
     links:
       - title: Ark
