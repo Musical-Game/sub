@@ -38,16 +38,38 @@ categories:
   - category: 生物
     icon: linecons-doc
     links:
-      - title: Alice.In.VOODOOLAND
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
-        description: 
-        tags: 
-      - title: Level.Up
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
-        description: 
-        tags:
+      - title: 1_macromolecules.pdf
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p104336331/1/2133713845/1_macromolecules.pdf
+      - title: 1_blood_and_heart.pdf
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p104336331/2/868531754/1_blood_and_heart.pdf
+      - title: 1a_Biological_Molecules_Proteins_Lipids.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p104336331/3/419872346/1a_Biological_Molecules_Proteins_Lipids%E4%BF%AE%E6%94%B9.pptx
+      - title: 1_diet_and_health.pdf
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p104336331/4/1628784370/1_diet_and_health.pdf
+      - title: The_Heart.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p105339105/1/628522114/The_Heart.pptx
+      - title: Cell_Membranes.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p106042259/1/1736361169/Cell_Membranes%E4%BF%AE%E6%94%B9.pptx
+      - title: Transport_Across_Membranes.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p106042259/2/1680611673/Transport_Across_Membranes.pptx
+      - title: Gas_Exchange.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p106042259/3/2120882644/Gas_Exchange%E4%BF%AE%E6%94%B9.pptx
+      - title: dcpip.pdf
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p107193537/1/452909054/dcpip.pdf
+      - title: Enzymes.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p107322751/1/2146289020/2b_Enzymes%E4%BF%AE%E6%94%B9.pptx
+      - title: transport_and_membrane_ans.docx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p107508019/2/30435951/transport_and_membrane_ans.docx
+      - title: enzyme.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p107508019/1/185367209/enzyme%E5%85%AC%E5%BC%80%E8%AF%BE1.pptx
+      - title: 2c_inheritance.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p108469499/2/2044571983/2c_inheritance.pptx
+      - title: 2_Nucleic_Acids_and_the_Genetic_Code.pptx
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p108469499/3/2075826266/2_Nucleic_Acids_and_the_Genetic_Code.pptx
+      - title: Nucleic_Acids_and_the_Genetic_Code.ppt
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109191584/1/2101099664/Nucleic_Acids_and_the_Genetic_Code.ppt
+      - title: 9_-_dna_qp_-_ial_edexcel_biology.pdf
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109513255/1/914139601/9_-_dna_qp_-_ial_edexcel_biology.pdf
 
   - category: 经济
     icon: linecons-doc
