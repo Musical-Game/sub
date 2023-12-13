@@ -94,14 +94,54 @@ categories:
   - category: 物理
     icon: linecons-doc
     links:
-      - title: Alice.In.VOODOOLAND
+      - title: 5.1_Electric_Current.pdf
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289832/1/427933609/5.1_Electric_Current.pdf
         description: 
         tags: 
-      - title: Level.Up
+      - title: 5.2_Electric_Components.pdf
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289832/2/648830629/5.2_Electric_Components.pdf
+        description: 
+        tags:
+      - title: 5.3_Semiconductor.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289832/3/978760138/5.3_Semiconductor.pdf
+        description: 
+        tags:
+      - title: 5.4_Circuit.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289832/4/150835052/5.4_Circuit.pdf
+        description: 
+        tags:
+      - title: 3.1_Waves_and_Vibration.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289808/1/1695241667/3.1_Waves_and_Vibration.pdf
+        description: 
+        tags:
+      - title: 3.2_Superpostion.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289808/2/1950126817/3.2_Superpostion.pdf
+        description: 
+        tags:
+      - title: 3.3_Standing_Waves.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289808/3/173114813/3.3_Standing_Waves.pdf
+        description: 
+        tags:
+      - title: 3.4_Diffraction.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289808/4/1053272510/3.4_Diffraction(1).pdf
+        description: 
+        tags:
+      - title: 3.5_Power_and_Intensity.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289808/5/688838452/3.5_Power_and_Intensity.pdf
+        description: 
+        tags:
+      - title: 3.6_Oscilloscope.pdf
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109289808/6/545275866/3.6_Oscilloscope.pdf
         description: 
         tags:
 
