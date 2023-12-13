@@ -93,10 +93,20 @@ categories:
         url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109909634/1/745071373/M1.5_Dynamics_2.ppt
         description: 
         tags: 
-      - title: 
+      - title: M1.3_Kinematics_-_Motion_Graphs
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
-        description: 
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p105654793/1/171995649/M1.3_Kinematics_-_Motion_Graphs.pdf
+        description:
+        tags:
+      - title: M1.3_Kinematics
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p106912760/1/1388813095/M1.3_Kinematics.ppt
+        description:
+        tags:
+      - title: M1.4_Dynamics_1
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p108693941/1/1775803885/M1.4_Dynamics_1.ppt
+        description:
         tags:
 
   - category: 雅思
