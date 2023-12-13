@@ -145,6 +145,11 @@ categories:
         description: 
         tags:
 
+  - category: MS
+    hide_menu: ture
+    icon: linecons-doc
+    links:
+    
   - category: 化学
     icon: linecons-doc
     links:
