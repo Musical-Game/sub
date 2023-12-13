@@ -3,7 +3,7 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: 学科资料
+title: AL
 # 网站 LOGO（可选）
 logo: 
 # 网址导航页面关键字（可选）
@@ -38,6 +38,8 @@ categories:
   - category: 生物
     icon: linecons-doc
     links:
+      - title: mini.pptx
+        url: https://VictorJhaan.github.io/upload/bio/mini.pptx
       - title: 1_macromolecules.pdf
         url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p104336331/1/2133713845/1_macromolecules.pdf
       - title: 1_blood_and_heart.pdf
@@ -70,7 +72,7 @@ categories:
         url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109191584/1/2101099664/Nucleic_Acids_and_the_Genetic_Code.ppt
       - title: 9_-_dna_qp_-_ial_edexcel_biology.pdf
         url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109513255/1/914139601/9_-_dna_qp_-_ial_edexcel_biology.pdf
-
+     
   - category: 经济
     icon: linecons-doc
     links:
