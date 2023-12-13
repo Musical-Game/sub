@@ -50,7 +50,6 @@ categories:
         tags:
 
   - category: 化学
-    hide_menu: true
     icon: linecons-doc
     links:
       - title: Ark
@@ -64,9 +63,9 @@ categories:
         description: 
         tags: 
 
-   - category: 经济
-     icon: linecons-doc
-     links:
+  - category: 经济
+    icon: linecons-doc
+    links:
       - title: Ark
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
@@ -78,9 +77,9 @@ categories:
         description: 
         tags: 
 
-   - category: 生物
-     icon: linecons-doc
-     links:
+  - category: 生物
+    icon: linecons-doc
+    links:
       - title: Ark
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
@@ -120,9 +119,9 @@ categories:
         description: 
         tags: 
         
-    - category: 数学
-      icon: linecons-doc
-      links:
+  - category: 数学
+    icon: linecons-doc
+    links:
       - title: Ark
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
