@@ -116,6 +116,15 @@ categories:
         description:
         tags:
 
+  - category: MS
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: M1MS
+        url: https://www.savemyexams.com/international-a-level/maths_mechanics-1/edexcel/-/pages/past-papers/
+      - title: M2MS
+        url: https://www.savemyexams.com/international-a-level/maths_mechanics-2/edexcel/-/pages/past-papers/
+      
   - category: 雅思
     icon: linecons-doc
     links:
