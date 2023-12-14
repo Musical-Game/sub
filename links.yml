@@ -73,17 +73,22 @@ categories:
       - title: 9_-_dna_qp_-_ial_edexcel_biology.pdf
         url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109513255/1/914139601/9_-_dna_qp_-_ial_edexcel_biology.pdf
      
+  - category: MS
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: MS
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://www.savemyexams.com/international-a-level/biology/edexcel/-/pages/past-papers/
+        description: 
+        tags: 
+
   - category: 经济
     icon: linecons-doc
     links:
-      - title: Ark
+      - title: 
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
-        description: 
-        tags: 
-      - title: 16_9
-        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/16_9.zip
+        url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109909634/1/745071373/M1.5_Dynamics_2.ppt
         description: 
         tags: 
         
@@ -240,8 +245,13 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
         description: 
         tags: 
-      - title: 16_9
+        
+  - category: MS
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: MS
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/16_9.zip
+        url: https://www.savemyexams.com/international-a-level/maths_pure-3/edexcel/-/pages/past-papers/
         description: 
-        tags: 
+        tags:
