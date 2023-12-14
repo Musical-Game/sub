@@ -188,6 +188,8 @@ categories:
     hide_menu: true
     icon: linecons-doc
     links:
+      - title: MS
+        url: https://www.savemyexams.com/international-a-level/physics/edexcel/-/pages/past-papers/
       - title: 2019_June_MS.pdf
         url: https://s3.us-west-1.amazonaws.com/post.jupitered.com/v4/p109287943/1/1364724435/2019_June_MS.pdf
       - title: 2019_Oct_MS.pdf
