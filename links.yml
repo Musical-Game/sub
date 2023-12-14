@@ -223,14 +223,19 @@ categories:
   - category: 化学
     icon: linecons-doc
     links:
-      - title: Ark
+      - title: 
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
         description: 
         tags: 
-      - title: 16_9
+
+  - category: MS
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: MS
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/16_9.zip
+        url: https://www.savemyexams.com/international-a-level/chemistry/edexcel/-/pages/past-papers/
         description: 
         tags: 
 
@@ -242,9 +247,14 @@ categories:
         url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Alice.In.VOODOOLAND.zip
         description: 
         tags: 
-      - title: Level.Up
+
+  - category: MS
+    hide_menu: true
+    icon: linecons-doc
+    links:
+      - title: MS
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Level.Up.zip
+        url: https://www.savemyexams.com/international-a-level/english-literature/edexcel/-/pages/past-papers/
         description: 
         tags:
 
