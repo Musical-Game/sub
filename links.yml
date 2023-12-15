@@ -266,6 +266,16 @@ categories:
         url: https://VictorJhaan.github.io/upload/math/formula.pdf
         description: 
         tags: 
+      - title: 微分
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://VictorJhaan.github.io/upload/math/differentiation.jpeg
+        description: 
+        tags: 
+      - title: 积分
+        logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
+        url: https://VictorJhaan.github.io/upload/math/integration.jpeg
+        description: 
+        tags: 
         
   - category: MS
     hide_menu: true
