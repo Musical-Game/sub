@@ -130,14 +130,14 @@ categories:
   - category: 雅思
     icon: linecons-doc
     links:
-      - title: Ark
+      - title: 雅思单词(表格)
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/Ark.zip
+        url: https://victorjhaan.github.io/upload/ielts/vob.pdf
         description: 
         tags: 
-      - title: 16_9
+      - title: 雅思单词（原版）
         logo: https://yinyoushe.github.io/img/a23a2a26cf204701e.jpg
-        url: https://github.com/yinyoushe/score/releases/download/v0.2.0/16_9.zip
+        url: https://victorjhaan.github.io/upload/vo.pdf
         description: 
         tags: 
 
